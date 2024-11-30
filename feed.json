@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The English Tribe",
+    "description": "",
+    "home_page_url": "https://sadtler.github.io",
+    "feed_url": "https://sadtler.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The English Tribe"
+    },
+    "items": [
+    ]
+}

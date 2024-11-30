@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sadtler.github.io/sitemap.xml
